@@ -270,12 +270,13 @@ body {
     font-size: 1.4rem;
     font-weight: 400;
     text-align: justify;
-    padding-bottom: 2rem;
+    padding-bottom: 4rem;
 }
 /******************TOP SECTION END***************************/
 
 /*****btn*****/
 .btn {
+    text-decoration: none;
     outline: none;
     border: 0.1rem solid #fff;
     border-radius: 50px;
