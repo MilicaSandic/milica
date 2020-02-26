@@ -197,6 +197,12 @@ body {
     letter-spacing: .3rem;
 }
 
+@media (max-width: 26.56rem) {
+    .top-section .content h1 {
+        font-size: 2.5rem;
+    }
+}
+
 /*Font-style*/
 .top-section .content .line {
     position: relative;
@@ -271,6 +277,12 @@ body {
     font-weight: 400;
     text-align: justify;
     padding-bottom: 4rem;
+}
+
+@media (max-width: 26.56rem) {
+    .top-section .content .description-1 {
+        font-size: 1.2rem;
+    }
 }
 /******************TOP SECTION END***************************/
 
